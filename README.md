@@ -7,7 +7,9 @@ A Machine Learning web application that predicts the prices of:
 -  Air Conditioners
 
 Built using Python, Streamlit, and Scikit-learn.
+## Live App
 
+[Open the App](https://electronicspriceprediction-bcywwftrplabck5lxxbbad.streamlit.app/)
 ---
 
 ##  Features
