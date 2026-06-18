@@ -1,16 +1,16 @@
-# 📱📺❄️ Electronics Price Prediction
+ Electronics Price Prediction
 
 A Machine Learning web application that predicts the prices of:
 
-- 📱 Mobile Phones
-- 📺 Televisions
-- ❄️ Air Conditioners
+-  Mobile Phones
+-  Televisions
+-  Air Conditioners
 
 Built using Python, Streamlit, and Scikit-learn.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Multi-category product price prediction
 - Interactive Streamlit user interface
@@ -19,7 +19,7 @@ Built using Python, Streamlit, and Scikit-learn.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -31,7 +31,7 @@ Built using Python, Streamlit, and Scikit-learn.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 electronics_price_prediction/
@@ -46,7 +46,7 @@ electronics_price_prediction/
 
 ---
 
-## ▶️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 pip install -r requirements.txt
@@ -55,7 +55,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Note
+##  Note
 
 This project uses sample datasets created for educational and demonstration purposes.
 
