@@ -37,13 +37,13 @@ Built using Python, Streamlit, and Scikit-learn.
 
 ```text
 electronics_price_prediction/
-├── datasets/
-├── models/
-├── app.py
-├── train_mobile.py
-├── train_tv.py
-├── train_ac.py
-└── requirements.txt
+ datasets/
+ models/
+ app.py
+ train_mobile.py
+ train_tv.py
+ train_ac.py
+ requirements.txt
 ```
 
 ---
